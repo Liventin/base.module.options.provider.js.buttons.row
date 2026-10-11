@@ -8,11 +8,5 @@
   "require": {
     "php": ">=8.1",
     "liventin/base.module": "^1.0.0"
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "git@github.com:liventin/base.module"
-    }
-  ]
+  }
 }
